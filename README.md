@@ -2,7 +2,7 @@
 
 This is a simple Quiz Website designed to offer various quiz topics such as Politics, Nature, Geography, and General Knowledge.
 
-## Click here for the Website: [**Quiz-website]
+## Click here for the Website: [**Quiz-website**](https://chandan-1824.github.io/Quiz-Website/)
 
 ## Project Structure
 
